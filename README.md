@@ -1,5 +1,5 @@
 # Project Demonstration
-![](demo.gif)
+![](https://github.com/Automatic-Soil-Moisture-Sensor-with-Auditory-Feedback/demo.gif)
 
 # Project Presentation Slides
 For a detailed overview of our project, including diagrams, technical details, and our development process, view our presentation slides:
