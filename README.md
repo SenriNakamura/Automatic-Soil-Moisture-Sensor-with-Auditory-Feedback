@@ -1,6 +1,5 @@
 # Project Demonstration
-
-![giphy]([https://github.com/SenriNakamura/FPGA_snake_game/assets/112661390/937b6a59-5b7e-4394-9746-0bbe2dc1ff62](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxldGpsdTZpd255bmtvd254N2xuOXc1bzQwc202bjM3ZHNoOWV2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3zIrmxJilLThtJpgKC/giphy.gif))
+![](giphy(1)(1).gif)
 
 # Project Presentation Slides
 For a detailed overview of our project, including diagrams, technical details, and our development process, view our presentation slides:
