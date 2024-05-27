@@ -1,5 +1,5 @@
 # Project Demonstration
-![](giphy(1)(1).gif)
+![](demo.gif)
 
 # Project Presentation Slides
 For a detailed overview of our project, including diagrams, technical details, and our development process, view our presentation slides:
