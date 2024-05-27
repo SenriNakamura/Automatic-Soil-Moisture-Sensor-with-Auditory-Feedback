@@ -1,8 +1,7 @@
 # Project Presentation Slides
 For a detailed overview of our project, including diagrams, technical details, and our development process, view our presentation slides:
 
-[View Presentation Slides]([https://link-to-your-slides.com](https://docs.google.com/presentation/d/1W93WGzWNciMMUmCuppMuS06Y-gGXBqqM1IL80uMkibQ/edit?usp=sharing))
-
+[View Presentation Slides]([https://docs.google.com/presentation/d/1W93WGzWNciMMUmCuppMuS06Y-gGXBqqM1IL80uMkibQ/edit?usp=sharing])
 ## Introduction
 In this final project for EE14 Embedded Systems, Senri Nakamura and Brian Kim aimed to innovate traditional soil moisture detection by developing a system utilizing a capacitive moisture sensor integrated circuit interfaced with the STM32L4 Cortex-M4 microcontroller. Designed for real-time, accurate monitoring of soil moisture levels, this system provides essential information for agriculture, gardening, and environmental monitoring applications. Our unique approach incorporated auditory feedback to convey soil moisture status, facilitating use in various lighting conditions and breaking barriers for individuals with visual impairments.
 
